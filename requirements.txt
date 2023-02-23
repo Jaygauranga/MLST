@@ -1,0 +1,26 @@
+attrs==22.2.0
+btrfsutil==6.1
+cffi==1.15.1
+cryptography==39.0.1
+libinput-gestures-qt==0.4
+mercurial==6.3.2
+nftables==0.1
+packaging==21.3
+ply==3.11
+pyalsa==1.2.7
+pycparser==2.21
+pyparsing==3.0.9
+PyQt5==5.15.7
+PyQt5-sip==12.11.0
+pysmbc==1.0.23
+QTermWidget==1.2.0
+Reflector==2021.11.20.2.41.3
+team==1.0
+ufw==0.36.1
+import numpy as np
+pandas
+matplotlib
+scikit-learn
+keras
+tensorflow
+numpy
